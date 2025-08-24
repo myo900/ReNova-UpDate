@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "url": "https://raw.githubusercontent.com/myo900/ReNova-UpDate/main/firmware-1.0.8.bin",
-  "size": 2484880,
-  "sha256": "0F6A06D32A0BE347DD418A48DF0962EC5287974FB2A40C4EE0727B8253CF8243",
-  "released_at": "2025-08-24T13:21:28Z"
+  "version": "1.0.9",
+  "url": "https://raw.githubusercontent.com/myo900/ReNova-UpDate/main/firmware-1.0.9.bin",
+  "size": 2484960,
+  "sha256": "508DD51CD07815A4BD7610F1111938F3A64A6A24483805C93A12F61D57798E8F",
+  "released_at": "2025-08-24T14:59:27Z"
 }
