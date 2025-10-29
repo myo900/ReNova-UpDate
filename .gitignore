@@ -6,10 +6,14 @@
 .vscode/launch.json
 .vscode/ipch
 
-# Build artifacts
-*.bin
-*.elf
-*.map
+# Build artifacts (escludi dalla cartella .pio)
+.pio/**/*.bin
+.pio/**/*.elf
+.pio/**/*.map
+
+# Firmware binari pubblicati (INCLUDI nel git)
+# !firmware/*.bin
+# !firmware/*.json
 
 # IDE
 .idea/
