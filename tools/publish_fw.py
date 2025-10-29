@@ -82,7 +82,9 @@ def _publish_action(target, source, env):
     FW_DST  = REPO_DIR / FW_NAME
     MANIFEST = REPO_DIR / MANIFEST_NAME
     LATEST   = REPO_DIR / LATEST_NAME
-    RAW_URL  = f"https://raw.githubusercontent.com/{REPO_USER}/{REPO_NAME}/{BRANCH}/{FW_NAME}"
+    # URL con percorso firmware/ se REPO_DIR è relativo
+    fw_path = f"firmware/{FW_NAME}" if not REPO_DIR.is_absolute() else FW_NAME
+    RAW_URL  = f"https://raw.githubusercontent.com/{REPO_USER}/{REPO_NAME}/{BRANCH}/{fw_path}"
 
     # 4) copia .bin e calcola metadati
     REPO_DIR.mkdir(parents=True, exist_ok=True)
