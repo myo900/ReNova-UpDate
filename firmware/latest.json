@@ -1,9 +1,9 @@
 {
   "version": "1.4.5",
   "url": "https://raw.githubusercontent.com/myo900/ReNova-UpDate/main/firmware/firmware-1.4.5.bin",
-  "size": 2555392,
-  "sha256": "99CD1C6C3B18732BE00F2272E429293035CEEEBDAE729FF2BAEC4EF41CAD81FE",
-  "released_at": "2026-02-10T12:02:24Z",
+  "size": 2556976,
+  "sha256": "C6AAA5E8C76BB88ABDB9B3018B91A02CD7BEB3927DA1651D1081902983C1C4A9",
+  "released_at": "2026-02-10T13:05:49Z",
   "notes": [
     "Ricarica: time-to-limit con limite carica",
     "Screen2: kWh caricati sessione",
