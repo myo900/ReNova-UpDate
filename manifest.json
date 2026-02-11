@@ -1,7 +1,7 @@
 {
-  "version": "1.4.6-debug",
-  "url": "https://raw.githubusercontent.com/myo900/ReNova-UpDate/main/firmware-1.4.6-debug.bin",
+  "version": "1.4.7-debug",
+  "url": "https://raw.githubusercontent.com/myo900/ReNova-UpDate/main/firmware-1.4.7-debug.bin",
   "size": 2582960,
-  "sha256": "A2B4DE4F8A847DCBE5211F31DBEEFA05740EACC557DD913FDF1CEE94E1D26A84",
-  "released_at": "2026-02-11T21:33:59Z"
+  "sha256": "9663EE6338985A818934B39731758C2D9D72AAE60D2A4EC4392804944124A6AB",
+  "released_at": "2026-02-11T21:35:28Z"
 }
