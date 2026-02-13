@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2-cubo",
-  "url": "https://raw.githubusercontent.com/myo900/ReNova-UpDate/main/firmware-1.5.2-cubo.bin",
-  "size": 2601680,
-  "sha256": "6B670697ACA2AD3A21212BB02450A66969DC4B1880CC74BF689A765F9B04BC73",
-  "released_at": "2026-02-13T08:35:02Z"
+  "version": "1.5.2-debug",
+  "url": "https://raw.githubusercontent.com/myo900/ReNova-UpDate/main/firmware-1.5.2-debug.bin",
+  "size": 2600816,
+  "sha256": "5A2A1212A3751EE3CFF84E585F369D56C9F542F7DB65D63FC05E112FFCF4CBBF",
+  "released_at": "2026-02-13T08:02:07Z"
 }
