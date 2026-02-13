@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0-debug-quadrato",
-  "url": "https://raw.githubusercontent.com/myo900/ReNova-UpDate/main/firmware-1.0.0-debug-quadrato.bin",
-  "size": 2601696,
-  "sha256": "CAEED8D0A3C6164E60D04CE2A66AFE4A75A7CE057C08EAC47AB8BA7AE61806D8",
-  "released_at": "2026-02-13T08:31:54Z"
+  "version": "1.5.2-cubo",
+  "url": "https://raw.githubusercontent.com/myo900/ReNova-UpDate/main/firmware-1.5.2-cubo.bin",
+  "size": 2601680,
+  "sha256": "6B670697ACA2AD3A21212BB02450A66969DC4B1880CC74BF689A765F9B04BC73",
+  "released_at": "2026-02-13T08:35:02Z"
 }
