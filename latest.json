@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2-debug",
-  "url": "https://raw.githubusercontent.com/myo900/ReNova-UpDate/main/firmware-1.5.2-debug.bin",
+  "version": "1.5.2-cerchio",
+  "url": "https://raw.githubusercontent.com/myo900/ReNova-UpDate/main/firmware-1.5.2-cerchio.bin",
   "size": 2600816,
-  "sha256": "5A2A1212A3751EE3CFF84E585F369D56C9F542F7DB65D63FC05E112FFCF4CBBF",
-  "released_at": "2026-02-13T08:02:07Z"
+  "sha256": "689658E6EC391741810E94114FA26B17256C0F62F44ED94B5000FC274174A2BA",
+  "released_at": "2026-02-13T08:37:55Z"
 }
