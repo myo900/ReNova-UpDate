@@ -1,7 +1,7 @@
 {
-  "version": "1.5.3-quadrato",
-  "url": "https://raw.githubusercontent.com/myo900/ReNova-UpDate/main/firmware-1.5.3-quadrato.bin",
+  "version": "1.5.4-quadrato",
+  "url": "https://raw.githubusercontent.com/myo900/ReNova-UpDate/main/firmware-1.5.4-quadrato.bin",
   "size": 2601648,
-  "sha256": "C2665A84E2C74407D3AC9092F91801849B7F04E2B942050B5603B903EDB8A0E2",
-  "released_at": "2026-04-24T06:23:10Z"
+  "sha256": "07C21D65BFEBD220CFC12547C059023836AAA61588A878E813737FF9460BA549",
+  "released_at": "2026-04-24T06:25:20Z"
 }
